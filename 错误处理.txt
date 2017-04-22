@@ -1,0 +1,57 @@
+E:\Python34\python.exe E:/PycharmProjects/textForum/main.py
+14 :http://bbs.chetxia.com/256/367_22924508_22924508.htm
+
+HTTP Error 503: Service Unavailable
+15 :http://bbs.ci123.com/post/80673774.html/0   修复
+
+first argument must be string or compiled pattern
+16 :http://bbs.ci123.com/post/80673774.html/45  修复
+
+first argument must be string or compiled pattern  
+25 :http://bbs.eastmoney.com/dispbbs.asp?boardID=3&ID=5151913 无法打开
+
+HTTP Error 404: Not Found
+31 :http://bbs.hexun.com/money/post_84_10765277_1_d.html 修复
+
+list index out of range
+32 :http://bbs.hsw.cn/read-htm-tid-10128768.html 问题
+
+list index out of range
+33 :http://bbs.huanqiu.com/thread-3877830-1-1.html 修复
+
+<urlopen error [Errno 11001] getaddrinfo failed>
+56 :http://bbs.voc.com.cn/topic-7526350-1-1.html  基本修复
+
+list index out of range
+62 :http://club.autohome.com.cn/bbs/thread-a-100002-57219753-1.html 修复，但无法获取content
+
+list index out of range
+67 :http://club.qingdaonews.com/showAnnounce_113_7361769_1_0.htm 修复，但无法获取content
+
+list index out of range
+70 :http://games.hiapk.com/thread-27900161-1-1.html 404
+
+HTTP Error 404: Not Found
+71 :http://games.hiapk.com/thread-27918523-1-1.html  404
+
+HTTP Error 404: Not Found
+72 :http://guba.sina.com.cn/?s=thread&tid=154826&bid=317 修复，但无法获取content
+
+<urlopen error timed out>
+80 :http://sxy.hc360.com/article-170598.html 需要登陆或者动态抓取
+
+list index out of range
+91 :http://www.pengfu.com/content_1593692_1.html
+
+first argument must be string or compiled pattern
+92 :http://www.shdxlt.cn/ShowPost.asp?ThreadID=144952
+
+first argument must be string or compiled pattern
+96 :http://www.xici.net/b1200729/d235376120.htm
+
+first argument must be string or compiled pattern
+98 :http://x.heshuicun.com/thread-65127-1-1.html
+
+<urlopen error timed out>
+
+Process finished with exit code 0

@@ -1,0 +1,12 @@
+逻辑
+    时间，卡出主要内容
+    从中找到a的dom形成一个list
+        遍历list
+            首先判断a有没有class
+                如果有是否含有user、name、auth、author等等
+            如果没有向上寻找父dom
+                判断是否含有user、name、auth、author等等
+            如果没有继续向上2级父dom
+                判断是否含有user、name、auth、author等等
+            
+            在这个过程中如果能找到那么就是了
